@@ -19,17 +19,31 @@ Here are some ideas to get you started:
 <p align="center"> I write code.</p> 
 
 ```
-➜  cookieth git:(main) ✗ echo "Welcome to my Github, feel free to check out my projects below!"
+➜  cookieth git:(main) ✗ make welcome
+➜  cookieth git:(main) ✗ ./welcome
+
+~~~~~
+
+Welcome to my Github, feel free to check out my projects below!
+
+I'm a Computer Engineering student at the University of Waterloo.
+I specialize in C++ and have a keen interest in anything embedded.
+
+Feel free to shoot me an email if you'd like to learn more!
+
+~~~~~
+
+➜  cookieth git:(main) ✗ 
 ```
 
 ### 🔭  I’m currently working on my [Cherry Pi](http://www.github.com/Cookieth/pedal-pi/)
-### 💬  Ask me anything on Web Dev
-### 📧  Reach me: **kchoa@uwaterloo.ca**
-### 💻  Check out my [website](https://keithchoa.com/)
+### 💬  Ask me anything about everything!
+### 📧  Reach me at **kchoa@uwaterloo.ca**
+### 💻  Check out my [website](https://keithchoa.com/) for more info
 
 <br>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Cookieth&show_icons=true&theme=algolia" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Cookieth&show_icons=true&theme=graywhite" /> </p>
 
 <br>
 <a href="https://keithchoa.com/" target="_blank"><img align="center" width="28px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
