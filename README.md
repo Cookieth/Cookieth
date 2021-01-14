@@ -13,21 +13,23 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center"> <img src="https://keithchoa.com/images/main.jpg" alt="hhhrrrttt222111" /> </p>
+<p align="center"> <img src="./img/main.jpg" alt="hhhrrrttt222111" /> </p>
 
 <h1 align="center"> Hey,<br> I'm Keith</h1> 
 <p align="center"> I write code.</p> 
 
+```
+➜  cookieth git:(main) ✗ echo "Welcome to my Github, feel free to check out my projects below!"
+```
+
+### 🔭  I’m currently working on my [Cherry Pi](http://www.github.com/Cookieth/pedal-pi/)
+### 💬  Ask me anything on Web Dev
+### 📧  Reach me: **kchoa@uwaterloo.ca**
+### 💻  Check out my [website](https://keithchoa.com/)
+
 <br>
 
-### 🔭 I’m currently working on my [Cherry Pi](http://www.github.com/Cookieth/pedal-pi/)
-### 💬 Ask me anything on Web Dev
-### 📧 Reach me: **kchoa@uwaterloo.ca**
-### 💻 Check out my [website](https://keithchoa.com/)
-
-<br>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Cookieth&show_icons=true&theme=tokyonight" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Cookieth&show_icons=true&theme=algolia" /> </p>
 
 <br>
 <a href="https://keithchoa.com/" target="_blank"><img align="center" width="28px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
