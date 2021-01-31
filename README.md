@@ -35,16 +35,6 @@ Feel free to shoot me an email if you'd like to learn more!
 
 ➜  cookieth git:(main) ✗ 
 ```
-
-### 🔭  I’m currently working on my [Cherry Pi](http://www.github.com/Cookieth/pedal-pi/)
-### 💬  Ask me anything about everything!
-### 📧  Reach me at **kchoa@uwaterloo.ca**
-### 💻  Check out my [website](https://keithchoa.com/) for more info
-
-<br>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Cookieth&show_icons=true&theme=graywhite" /> </p>
-
 <br>
 <a href="https://keithchoa.com/" target="_blank"><img align="center" width="28px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
 <a href="https://www.linkedin.com/in/keithchoa/" target="_blank"><img align="center" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
