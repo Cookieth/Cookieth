@@ -1,40 +1,10 @@
-<!--
-**Cookieth/Cookieth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <p align="center"> <img src="./img/main.jpg" alt="hhhrrrttt222111" /> </p>
 
-<h1 align="center"> Hey,<br> I'm Keith</h1> 
-<p align="center"> I write code.</p> 
+### Hey, I'm Keith!
+I study Computer Engineering at the University of Waterloo. I am a Professional software developer with strong industry experience in embedded systems, specializing in C++.
 
-```
-➜  cookieth git:(main) ✗ make welcome
-➜  cookieth git:(main) ✗ ./welcome
+Feel free to get in contact with me if you'd like to learn more!
 
-~~~~~
-
-Welcome to my Github, feel free to check out my projects below!
-
-I'm a Computer Engineering student at the University of Waterloo.
-I specialize in C++ and have a keen interest in anything embedded.
-
-Feel free to shoot me an email if you'd like to learn more!
-
-~~~~~
-
-➜  cookieth git:(main) ✗ 
-```
-<br>
-<a href="https://keithchoa.com/" target="_blank"><img align="center" width="28px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
-<a href="https://www.linkedin.com/in/keithchoa/" target="_blank"><img align="center" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+**Email: <a href="mailto:keith.choa@uwaterloo.ca"> keith.choa@uwaterloo.ca </a>
+Website: <a href="https://keithchoa.com/">keithchoa.com/ </a>
+LinkedIn: <a href="https://www.linkedin.com/in/keithchoa/"> linkedin.com/in/keithchoa/ </a>**
